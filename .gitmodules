@@ -1,3 +1,6 @@
 [submodule "sastamaal-frontend"]
 	path = sastamaal-frontend
 	url = https://github.com/devanshupathak9/sastamaal-frontend.git
+[submodule "sastamaal-backend"]
+	path = sastamaal-backend
+	url = https://github.com/devanshupathak9/sastamaal-backend.git
