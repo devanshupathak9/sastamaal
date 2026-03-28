@@ -1,0 +1,3 @@
+[submodule "sastamaal-frontend"]
+	path = sastamaal-frontend
+	url = https://github.com/devanshupathak9/sastamaal-frontend.git
