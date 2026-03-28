@@ -1,6 +1,6 @@
 # SUBMODULE SETUP
 
-This repository contains the **frontend** and **backend** as Git submodules.
+The main app repository contains the **frontend** and **backend** as Git submodules.
 Each submodule is an independent Git repository tracked by this main repo.
 
 ---
